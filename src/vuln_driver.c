@@ -130,7 +130,7 @@ static int vuln_release(struct inode *inode, struct file *filp)
 
 /**
 * The operations allowed by userspace applications.
-* We only really allow access through the ioctl interface.
+* We only allow access through the ioctl interface.
 */
 static struct file_operations vuln_ops = {
 	.owner = THIS_MODULE,
