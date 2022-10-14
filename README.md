@@ -4,3 +4,5 @@ An intentionally vulnerable linux driver for research purposes/practice in kerne
 This is based off the awesome work from the hacksys team who did the vulnerable windows driver: https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
 
 These are not CTF style challenges, the vulnerabilities are extremely obvious, the focus is one understanding kernel exploit dev.
+
+The vulnerable linux driver is developed for security enthusiast lo learn and polish their linux exploitation skills on Ring 0.
